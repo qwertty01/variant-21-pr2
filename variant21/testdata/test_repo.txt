@@ -1,0 +1,15 @@
+# Test repository description
+# Format: PACKAGE -> DEP1, DEP2, ...
+# Packages named with uppercase Latin letters
+
+A -> B, C
+B -> D, E
+C -> E, F
+D -> G
+E -> G
+F ->
+G -> H
+H ->
+# Cycle example (commented):
+# X -> Y
+# Y -> X

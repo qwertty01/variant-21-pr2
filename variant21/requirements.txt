@@ -1,0 +1,5 @@
+# Runtime dependencies are minimal (stdlib only for core logic).
+# Optional for enhanced visualization:
+# d2 (external binary) or graphviz
+
+pytest>=7.0.0

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <package>A</package>
+    <repo_url>testdata/test_repo.txt</repo_url>
+    <test_mode>true</test_mode>
+    <version>1.0</version>
+    <output_file>test_deps</output_file>
+    <max_depth>5</max_depth>
+    <filter_substring></filter_substring>
+</config>

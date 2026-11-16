@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <package>requests</package>
+    <repo_url>https://pypi.org/simple/</repo_url>
+    <test_mode>false</test_mode>
+    <version>2.31.0</version>
+    <output_file>deps</output_file>
+    <max_depth>3</max_depth>
+    <filter_substring></filter_substring>
+</config>
